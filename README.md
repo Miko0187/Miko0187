@@ -14,9 +14,22 @@
 
 ***
 
-## My Discord profile
+## 💬 My Discord profile
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/748985630410932290)](https://discord.com/users/748985630410932290)
+
+***
+
+## 📊 My GitHub stats
+
+<div align="center">
+    <a href="https://github.com/Cryxyemi?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryxyemi&layout=compact&theme=tokyonight&count_private=true" alt="Most used languages" title="Most used languages"/>
+    </a>
+    <a href="https://github.com/Cryxyemi">
+        <img src="https://github-readme-stats.vercel.app/api?username=Cryxyemi&theme=tokyonight&count_private=true" alt="Github Stats" title="Github Stats">
+    </a>
+</div>
 
 ***
 
