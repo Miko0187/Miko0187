@@ -1,12 +1,12 @@
 <div align="center">
-    <a href="https://github.com/Cryxyemi">
-        <img src="https://github.com/Cryxyemi/Cryxyemi/blob/main/Assets/header.png?raw=true" alt="Welcome Card">
+    <a href="https://github.com/Miko0187">
+        <img src="https://github.com/Miko0187/Miko0187/blob/main/Assets/header.png?raw=true" alt="Welcome Card">
     </a>
 </div>
 
 ***
 
-## <img src="https://github.com/Cryxyemi/Cryxyemi/blob/main/Assets/hand.gif?raw=true" alt="Hand" width="25px"> About me
+## <img src="https://github.com/Miko0187/Miko0187/blob/main/Assets/hand.gif?raw=true" alt="Hand" width="25px"> About me
 
 🏷️ | I'm Maik,\
 🌍 | student from Germany.\
@@ -27,13 +27,13 @@
 ## 📊 My GitHub stats
 
 <div align="center">
-    <a href="https://github.com/Cryxyemi?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cryxyemi&layout=compact&theme=tokyonight&count_private=true" alt="Most used languages" title="Most used languages"/>
+    <a href="https://github.com/Miko0187?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miko0187&layout=compact&theme=tokyonight&count_private=true" alt="Most used languages" title="Most used languages"/>
     </a>
     </br>
     </br>
-    <a href="https://github.com/Cryxyemi">
-        <img src="https://github-readme-stats.vercel.app/api?username=Cryxyemi&theme=tokyonight&count_private=true" alt="Github Stats" title="Github Stats">
+    <a href="https://github.com/Miko0187">
+        <img src="https://github-readme-stats.vercel.app/api?username=Miko0187&theme=tokyonight&count_private=true" alt="Github Stats" title="Github Stats">
     </a>
 </div>
 
@@ -76,7 +76,7 @@
 ## 👁 Profile views
 
 <div align="center">
-    <a href="https://github.com/Cryxyemi">
-        <img src="https://komarev.com/ghpvc/?username=Cryxyemi&color=green&style=for-the-badge">
+    <a href="https://github.com/Miko0187">
+        <img src="https://komarev.com/ghpvc/?username=Miko0187&color=green&style=for-the-badge">
     </a>
 </div>
