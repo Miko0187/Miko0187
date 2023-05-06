@@ -33,7 +33,7 @@
     </br>
     </br>
     <a href="https://github.com/Miko0187">
-        <img src="https://github.com/Miko0187/Miko0187/tree/output/github-contribution-grid-snake.svg?raw=true" alt="Snake profile svg" title="My profile"/>
+        <img src="https://github.com/Miko0187/Miko0187/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake profile svg" title="My profile"/>
     </a>
     </br>
     </br>
