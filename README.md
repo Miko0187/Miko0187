@@ -33,11 +33,6 @@
     </br>
     </br>
     <a href="https://github.com/Miko0187">
-        <img src="https://github.com/Miko0187/Miko0187/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake profile svg" title="My profile"/>
-    </a>
-    </br>
-    </br>
-    <a href="https://github.com/Miko0187">
         <img src="https://github-readme-stats.vercel.app/api?username=Miko0187&theme=tokyonight&count_private=true" alt="Github Stats" title="Github Stats">
     </a>
 </div>
