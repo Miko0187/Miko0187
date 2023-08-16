@@ -69,6 +69,12 @@
     <a href="https://www.markdownguide.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg?raw=true" alt="Markdown" width="40px" title="Markdown">
     </a>
+    <a href="https://www.rust-lang.org/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg?raw=true" alt="Rust" width="40px" title="Rust">
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg?raw=true" alt="MongoDB" width="40px" title="MongoDB">
+    </a>
 </div>
 
 ***
