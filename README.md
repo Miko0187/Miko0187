@@ -14,14 +14,19 @@
 
 ***
 
-## 💬 My Discord profile
-
+## 👀 My profile
+# 💬 Discord
 <div align="center">
     <a href="https://discord.com/users/748985630410932290">
         <img src="https://lanyard-profile-readme.vercel.app/api/748985630410932290" alt="Discord Presence" title="Discord Presence">
     </a>
 </div>
-
+# 🔨 Github
+<div align="center">
+    <a href="https://github.com/Miko0187">
+        <img src="https://komarev.com/ghpvc/?username=Miko0187&color=green&style=for-the-badge">
+    </a>
+</div>
 ***
 
 ## 📊 My GitHub stats
@@ -78,11 +83,3 @@
 </div>
 
 ***
-
-## 👁 Profile views
-
-<div align="center">
-    <a href="https://github.com/Miko0187">
-        <img src="https://komarev.com/ghpvc/?username=Miko0187&color=green&style=for-the-badge">
-    </a>
-</div>
