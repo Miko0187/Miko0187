@@ -10,7 +10,7 @@
 
 🏷️ | I'm Maik,\
 🌍 | student from Germany.\
-👨‍💻 | I like to code with [Python](https://www.python.org/), [Go](https://go.dev/) and [C#](https://learn.microsoft.com/dotnet/csharp/)
+👨‍💻 | I like to code with [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and [C#](https://learn.microsoft.com/dotnet/csharp/)
 
 ***
 
