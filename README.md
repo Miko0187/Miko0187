@@ -10,15 +10,23 @@
 
 🏷️ | I'm Maik,\
 🌍 | student from Germany.\
-👨‍💻 | I like to code with [Python](https://www.python.org/), [Go](https://go.dev/) and [C#](https://learn.microsoft.com/dotnet/csharp/)
+👨‍💻 | I like to code with [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and [C#](https://learn.microsoft.com/dotnet/csharp/)
 
 ***
 
-## 💬 My Discord profile
-
+## 👀 My profile
+### 💬 Discord
 <div align="center">
     <a href="https://discord.com/users/748985630410932290">
         <img src="https://lanyard-profile-readme.vercel.app/api/748985630410932290" alt="Discord Presence" title="Discord Presence">
+    </a>
+</div>
+
+### 🔨 Github
+
+<div align="center">
+    <a href="https://github.com/Miko0187">
+        <img src="https://komarev.com/ghpvc/?username=Miko0187&color=green&style=for-the-badge">
     </a>
 </div>
 
@@ -78,11 +86,3 @@
 </div>
 
 ***
-
-## 👁 Profile views
-
-<div align="center">
-    <a href="https://github.com/Miko0187">
-        <img src="https://komarev.com/ghpvc/?username=Miko0187&color=green&style=for-the-badge">
-    </a>
-</div>
