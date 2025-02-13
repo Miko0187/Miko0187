@@ -8,7 +8,7 @@
 
 ## <img src="https://github.com/Miko0187/Miko0187/blob/main/Assets/hand.gif?raw=true" alt="Hand" width="25px"> About me
 
-🏷️ | I'm Maik,\
+🏷️ | I'm Miko0187,\
 🌍 | student from Germany.\
 👨‍💻 | I like to code with [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and [C#](https://learn.microsoft.com/dotnet/csharp/)
 
