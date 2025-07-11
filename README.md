@@ -50,9 +50,6 @@
     <a href="https://www.python.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="Python" width="60px" title="Python">
     </a>
-    <a href="https://learn.microsoft.com/dotnet/csharp/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg?raw=true" alt="CSharp" width="60px" title="CSharp">
-    </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg?raw=true" alt="VS Code" width="60px" title="VS Code">
     </a>
@@ -62,14 +59,8 @@
     <a href="https://www.postgresql.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg?raw=true" alt="Postgresql" width="60px" title="Postgresql"/>
     </a>
-    <a href="https://visualstudio.microsoft.com/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg?raw=true" alt="Visual Studio" width="60px" title="Visual Studio">
-    </a>
     <a href="https://www.docker.com/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg?raw=true" alt="Docker" width="60px" title="Docker">
-    </a>
-    <a href="https://www.markdownguide.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg?raw=true" alt="Markdown" width="60px" title="Markdown">
     </a>
     <a href="https://www.rust-lang.org/">
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg?raw=true" alt="Rust" width="60px" title="Rust">
